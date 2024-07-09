@@ -48,13 +48,13 @@
 
 
   - Full_OS_3D_BSDrive_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_SequoiaLight.zip))
-<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_SequoiaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_Jing_An_Bootview"></p>
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_SequoiaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_SequoiaLight_Bootview"></p>
    
   - Full_OS_3D_BSDrive_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_VenturaDark.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_BSDrive_SequoiaDark Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_SequoiaDark_Bootview.jpg"></p>
    
   - Full_OS_3D_BSDrive_jing_an :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_Jing_An.zip))
-<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_jing_an Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_jing_an_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_jing_an Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_Jing_An_Bootview.jpg"></p>
    
   - Full_OS_3D_BSDrive_SonomaLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_SonomaLight.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_BSDrive_SonomaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_SonomaLight_Bootview.jpg"></p>
