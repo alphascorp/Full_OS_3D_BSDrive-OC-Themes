@@ -63,6 +63,18 @@
   - Full_OS_3D_BSDrive_SonomaDark :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_SonomaDark.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_BSDrive_SonomaDark Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_SonomaDark_BootView.jpg"></p>
    
+  - Full_OS_3D_BSDrive_MtHood :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_MtHood.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_MtHood Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_MtHood_BootView.jpg"></p>
+   
+  - Full_OS_3D_BSDrive_Hero :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_Hero.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_Hero Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_Hero_BootView.jpg"></p>
+   
+  - Full_OS_3D_BSDrive_Aurora :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_Aurora.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_Aurora Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_Aurora_BootView.jpg"></p>
+   
+  - Full_OS_3D_BSDrive_CaliforniaStreaming :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_CaliforniaStreaming.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_CaliforniaStreaming_BootView.jpg"></p>
+   
   - Full_OS_3D_BSDrive_VenturaLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_VenturaLight.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_BSDrive_VenturaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/blob/main/Screenshots/Full_OS_3D_BSDrive_VenturaLight_BootView.jpg"></p>
    
