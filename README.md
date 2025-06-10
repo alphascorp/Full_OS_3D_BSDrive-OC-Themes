@@ -8,9 +8,9 @@
 
 ## :warning: First Use ➤  Change `config.plist` in `EFI/OC`
 
-### Set PickerVariant (Full_OS_3D_BSDrive_SequoiaLight theme for example)
+### Set PickerVariant (Full_OS_3D_BSDrive_TahoeLight theme for example)
 
-- Misc —> Boot —> PickerVariant: Alphascorp\Full_OS_3D_BSDrive_SequoiaLight
+- Misc —> Boot —> PickerVariant: Alphascorp\Full_OS_3D_BSDrive_TahoeLight
 
 ### Set PickerAttributes
 
@@ -34,7 +34,7 @@
     …
     
     <key>PickerVariant</key>
-    <string>Alphascorp\Full_OS_3D_BSDrive_SequoiaLight</string>
+    <string>Alphascorp\Full_OS_3D_BSDrive_TahoeLight</string>
     
     …
           
@@ -50,6 +50,12 @@
    
   - Full_OS_3D_BSDrive_Jing_An :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_Jing_An.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_BSDrive_jing_an Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_Jing_An_BootView.jpg"></p>
+   
+  - Full_OS_3D_BSDrive_TahoeLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_TahoeLight.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_TahoeLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_TahoeLight_BootView.jpg"></p>
+   
+  - Full_OS_3D_BSDrive_TahoeDark :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_TahoeDark.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_BSDrive_TahoeDark Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_TahoeDark_BootView.jpg"></p>
    
   - Full_OS_3D_BSDrive_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Themes/Full_OS_3D_BSDrive_SequoiaLight.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_BSDrive_SequoiaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_BSDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_BSDrive_SequoiaLight_BootView.jpg"></p>
